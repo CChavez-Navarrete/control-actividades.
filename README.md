@@ -11,3 +11,6 @@ Preparar la estructura inicial de un proyecto utilizando Python, Git y GitHub.
 
 ## Autor
 Carlos Ignacio Chavez Navarrete
+
+## Estado del proyecto
+Proyecto en etapa inicial.
